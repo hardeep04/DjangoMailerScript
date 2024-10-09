@@ -6,6 +6,5 @@
 
 
 ### Start this script by:
-##### 1. Add email id and password in settings.py file.
-##### 2. Add email id in views.py file.
-##### 3. Host the webapp wherever you want.
+##### 1. Add your email id and system generated app password in settings.py file.
+##### 2. Host the webapp wherever you want.
